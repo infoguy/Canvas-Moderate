@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5oomENuZaSP" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Canvas Moderate quiz Simulation</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Canvas_Moderate_quiz_Simulation_ORG">
+    <organization identifier="Canvas_Moderate_quiz_Simulation_ORG">
+      <title>Canvas Moderate quiz Simulation</title>
+      <item identifier="Canvas_Announcements_Simulation_SCO" isvisible="true" identifierref="__5oomENuZaSP_RES">
+        <title>Canvas Moderate quiz Simulation</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5oomENuZaSP_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6K11HlVgJI1_44100_48_0.mp3" />
+      <file href="story_content/6lAUf7gbi8w_captions.js" />
+      <file href="mobile/6b8e0ArFtQv.png" />
+      <file href="story_content/6XdJb65fkhy_44100_48_0.mp3" />
+      <file href="story_content/6Zo3DR4C2bD_44100_48_0.mp3" />
+      <file href="story_content/6Qbxm3PIgJB_captions.js" />
+      <file href="mobile/6hy4QDrKvsE.png" />
+      <file href="story_content/6D7Itaq8730_44100_48_0.mp3" />
+      <file href="story_content/5VZlKiwdhxA_44100_48_0.mp3" />
+      <file href="story_content/6RsRGXPC9F1_captions.js" />
+      <file href="mobile/6TpzO140thq.png" />
+      <file href="story_content/6RwVLZAonPk_44100_48_0.mp3" />
+      <file href="story_content/5qttgiNbS2z_44100_48_0.mp3" />
+      <file href="story_content/6P5iKCBn4V0_captions.js" />
+      <file href="mobile/6GMAJUJO3Kc.png" />
+      <file href="story_content/6i2praADBHp_44100_48_0.mp3" />
+      <file href="story_content/6o5wKT0gra1_captions.js" />
+      <file href="story_content/5m2MpQzB3ho_44100_48_0.mp3" />
+      <file href="story_content/5cRYMqR3wkK_captions.js" />
+      <file href="mobile/5ik4sTjNoUM.png" />
+      <file href="story_content/6ApQeKrF1ki_44100_48_0.mp3" />
+      <file href="story_content/6hbrJBHWCeR_captions.js" />
+      <file href="mobile/69JqaLwfynX.png" />
+      <file href="story_content/5n6ENTCdGl9_44100_48_0.mp3" />
+      <file href="story_content/6CMDOmhsPYh_captions.js" />
+      <file href="story_content/5q05qCOcIn8_44100_48_0.mp3" />
+      <file href="story_content/65BNCWY6sD7_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5kTLvLtfZAr.js" />
+      <file href="html5/data/js/5mTQ6TdJ0yN.js" />
+      <file href="html5/data/js/5sRjBEJNP14.js" />
+      <file href="html5/data/js/5UljYOClDk3.js" />
+      <file href="html5/data/js/5uSO4xhT6Dm.js" />
+      <file href="html5/data/js/64BxEwdHjkc.js" />
+      <file href="html5/data/js/65NKUJSzXoR.js" />
+      <file href="html5/data/js/6qd2roMf4bX.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
